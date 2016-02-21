@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="app_title">SERENDIPITY</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Registration</string>
+    <string name="forgetPass">Forgot Password?</string>
+    <string name="reset">Reset Password</string>
+    <string name="email">Email</string>
+    <string name="resetpasshint">Enter your Email to reset password</string>
+    <string name="passwordConfirm">Confirm Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="haveAccount">Already have an account? Sign In</string>
+    <string name="withoutLogin">{ Continue without Registration }</string>
+    <string name="rememberpass">Remember me</string>
+</resources>
